@@ -16,7 +16,7 @@ export class BarComponent implements OnInit {
   });
 
   ngOnInit(): void {
-
+    console.log('Bar Component 9000');
   }
 
   saveForm = () => {
